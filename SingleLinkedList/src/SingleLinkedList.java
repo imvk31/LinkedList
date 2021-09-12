@@ -44,5 +44,8 @@ class SingleLinkedList
         myList.add(2);
         myList.add(3);
         myList.print();
+        myList.add(4);
+        myList.add(5);
+        myList.print();
     }
 }
